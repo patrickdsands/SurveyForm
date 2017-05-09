@@ -1,2 +1,2 @@
 # SurveyForm
-Gives surveyors needed data fields to update during inventory projects.
+Download and open SurveyForm.zip in Visual Studio to view GUI.
